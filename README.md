@@ -1,6 +1,12 @@
 # switch_shared_preference
 
-A new Flutter application.
+スイッチのON/OFFの状態を保存(shared_preferences)<br>
+再起動時にスイッチの状態が維持されている<br>
+
+![D6AAE7F5-632A-4F7F-8F12-EC77C452BAB7_1_201_a](https://user-images.githubusercontent.com/73986840/120090834-94982a00-c140-11eb-9a83-58fb9eaae64a.jpeg)
+
+## 参考
+https://flutter.keicode.com/basics/how-to-use-preferences.php
 
 ## Getting Started
 
